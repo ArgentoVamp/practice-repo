@@ -1,27 +1,27 @@
-## First Name Last Name
+## Jonathan Endricks
 
-### Term Year 
+### 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Concepts and Methods for Engineering and Computer Science
 
-- Course 2
+- Computer Information Technology and Applications
 
-- Course 3
+- Emnglish Comp 1
 
-- Course 4
+- Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Magic The Gathering
 
-- Thing 2
+- Reading
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Video Games
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/29
